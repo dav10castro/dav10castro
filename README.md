@@ -2,9 +2,14 @@
 
 # 👋 Hola, soy David
 
-💻 Desarrollador de Software  
+💻 **Desarrollador de Software**  
 📱 iOS · Android · Web  
-🚀 Me gusta crear proyectos bien hechos, desde la idea hasta el producto final
+🚀 Construyo aplicaciones bien diseñadas, mantenibles y pensadas para crecer
+
+<br/>
+
+![GitHub followers](https://img.shields.io/github/followers/dav10castro?style=social)
+![GitHub stars](https://img.shields.io/github/stars/dav10castro?style=social)
 
 </div>
 
@@ -12,84 +17,90 @@
 
 ## 🧠 Sobre mí
 
-Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** y desarrollador de software con especial interés en crear aplicaciones **bien estructuradas, escalables y mantenibles**.
+Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** y desarrollador de software con un enfoque claro en crear productos **sólidos, escalables y bien estructurados**.
 
-Me gusta trabajar con **buenas prácticas**, arquitectura limpia y cuidar tanto el **código** como la **experiencia de usuario**. Disfruto aprendiendo, mejorando mis proyectos poco a poco y enfrentándome a retos reales.
+Me gusta trabajar siguiendo **buenas prácticas**, aplicando **arquitectura limpia** y cuidando tanto el **código** como la **experiencia de usuario**.  
+Disfruto enfrentándome a retos reales, mejorando mis proyectos de forma continua y construyendo soluciones pensadas para producción.
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Stack tecnológico
 
-**Lenguajes**
+### Lenguajes
 - Swift · Kotlin · Java · TypeScript · Python
 
-**Frontend & Mobile**
+### Frontend & Mobile
 - SwiftUI
 - Jetpack Compose
 - Angular
 
-**Backend**
+### Backend
 - Spring Boot
 - FastAPI
 
-**Bases de datos**
+### Bases de datos
 - PostgreSQL
 - Firebase
 
-**Herramientas**
+### Herramientas & Calidad
 - Git · GitHub
 - Docker
-- Firebase
 - Testing (XCTest, JUnit)
+- Arquitectura y buenas prácticas
 
 ---
 
-## 📐 Forma de trabajar
+## 📐 Cómo trabajo
 
-- Arquitectura **MVVM** y **Clean Architecture**
-- Código modular y reutilizable
-- Separación clara de responsabilidades
-- Testing y control de versiones
-- Enfoque en proyectos reales y publicables
+- **MVVM** y **Clean Architecture**
+- Código modular, reutilizable y testeable
+- Separación clara de capas y responsabilidades
+- Enfoque en mantenibilidad a largo plazo
+- Pensando siempre en escalabilidad y producto real
 
 ---
 
-## 📱 Qué tipo de proyectos hago
+## 📱 Tipos de proyectos
 
-- Apps móviles iOS y Android
+- Aplicaciones móviles iOS y Android
 - APIs REST bien estructuradas
 - Proyectos personales con enfoque profesional
-- Aplicaciones pensadas para escalar y mantenerse
+- Aplicaciones listas para crecer y mantenerse en el tiempo
 
 ---
 
-## 🎯 En qué estoy centrado ahora
+## 🎯 Actualmente enfocado en
 
-- Mejorar arquitectura y testing
-- Crear aplicaciones propias
-- Pulir UI/UX
-- Construir un portfolio sólido
+- Perfeccionar arquitectura y testing
+- Publicar aplicaciones propias
+- Mejorar UI/UX
+- Construir un portfolio sólido y coherente
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dav10castro&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dav10castro&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🤝 Contacto
 
-- GitHub: https://github.com/TU_USUARIO
-- LinkedIn: *(añádelo si quieres)*
+- 🐙 GitHub: https://github.com/dav10castro  
+- 💼 LinkedIn: https://www.linkedin.com/in/castrosoriano31121985/
 
 ---
 
 <div align="center">
 
-✨ Siempre aprendiendo · Siempre construyendo ✨  
-Si te gusta lo que ves, ¡dale una ⭐!
+✨ **Siempre aprendiendo · Siempre construyendo** ✨  
+Si te gusta lo que ves, ¡una ⭐ siempre se agradece!
 
 </div>
+
